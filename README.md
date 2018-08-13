@@ -19,10 +19,10 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 Four discrete actions are available, corresponding to:
 
 Number of actions: 4
-0. - move forward.
-1. - move backward.
-2. - turn left.
-3. - turn right.
+1. - move forward.
+2. - move backward.
+3. - turn left.
+4. - turn right.
 
 States look like:
 ```
