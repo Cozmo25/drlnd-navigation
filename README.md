@@ -1,6 +1,6 @@
 # DRLND - Navigation Project
 
-Author: Ollie Graham
+Author: Ollie Graham  
 Date: 13/08/2018
 
 ### About
