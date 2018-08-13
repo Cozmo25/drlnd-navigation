@@ -73,7 +73,7 @@ To run the environment:
 Watch the (silent) video below to see what kind of output to expect from the notebook, if everything is working properly!
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ltz2GhFv04A
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
+" target="_blank"><img src="http://img.youtube.com/vi/ltz2GhFv04A/0.jpg"
 alt="Example agent interacting with environment" width="240" height="180" border="10" /></a>
 
 
