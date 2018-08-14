@@ -76,5 +76,11 @@ Watch the (silent) video below to see what kind of output to expect from the not
 " target="_blank"><img src="http://img.youtube.com/vi/ltz2GhFv04A/0.jpg"
 alt="Example agent interacting with environment" width="240" height="180" border="10" /></a>
 
+### Watch a trained agent
 
+Click the link below to watch a trained agent act in the environment.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GFSBQ08WmTQ
+" target="_blank"><img src="http://img.youtube.com/vi/GFSBQ08WmTQ/0.jpg"
+alt="Example agent interacting with environment" width="400" height="300" border="10" /></a>
 
